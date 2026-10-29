@@ -1,9 +1,8 @@
 -- shield v0.0.1 by loopmasta
--- check your shield's ins and outs
+-- check your shield's ins/outs
 --
--- a bar under each label shows
--- activity: audio in / out,
--- network, MIDI in / out
+-- monitors audio, network,
+-- usb, midi and controls
 --
 -- hold K2: test tone L, then R
 -- hold K3: MIDI test notes out
