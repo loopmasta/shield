@@ -9,7 +9,7 @@ shield shows activity on every input and output of a [shieldXL](https://github.c
 ## requirements
 
 - a shieldXL with norns (made on a Raspberry Pi 4, norns 2.9.4)
-- for M-I / M-O: the shieldXL's TRS MIDI jacks set up as norns' `virtual` MIDI device (okyeron's MIDI setup, or `04-midi.sh` in [shieldxl-trixie](https://github.com/loopmasta/shieldxl-trixie))
+- for M-I / M-O: the shieldXL's TRS MIDI jacks set up as norns' `virtual` MIDI device (okyeron's MIDI setup, or `04-midi.sh` in [shieldXL-trixie](https://github.com/loopmasta/shieldXL-trixie))
 
 ## documentation
 
